@@ -1,0 +1,36 @@
+p{
+
+    background-color:grey ;
+    margin: 10px;
+}
+
+.secondparagraph{
+    background-color: blue;
+    margin: auto;
+
+
+}
+.quote{
+    background-color: pink;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.post{
+    background-color: pink;
+    padding-top: 10px;
+    padding-bottom:10px;
+}
+.date{
+    background-color: pink;
+    padding-top: 10px;
+    padding-bottom:10px
+}
+
+h2{
+    width: 500px;
+    height: 100px;
+    margin: auto;
+    padding: 10px;
+    dashed: border 3px;
+
+}
